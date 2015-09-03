@@ -1,5 +1,6 @@
 PS4/build
 PS4/*.bin
+PS4/*.elf
 PS4/*.bat
 PS4/*.exe
 DS/build
